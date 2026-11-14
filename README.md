@@ -3,7 +3,7 @@
 BCA Graduate | Raos Degree College, Nellore
 
 - 🌱 Currently Learning: SQL, HTML
-- 👀 Looking for: IT Support / MIS / Data Entry Jobs in Hyderabad & Chennai
+- 👀 Looking for: IT Support / Data Entry Jobs in Hyderabad & Chennai
 - 📫 Connect: LinkedIn
 
 **Skills:** SQL | HTML | Excel | GitHub
